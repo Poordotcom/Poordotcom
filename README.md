@@ -2,18 +2,17 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 </p>
 
-# Hello, I'm [ DataSurgeon ] :raised_hand_with_fingers_splayed:
+# Hello, I'm [DataSurgeon] :raised_hand_with_fingers_splayed:
 
 Welcome to my GitHub profile! I'm DataSurgeon, a passionate programmer and skilled developer with a focus on creating innovative solutions. With a strong background in cybersecurity, I'm dedicated to building robust and secure software.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding Cat" />
 
 ### 🌐 Web | 📱 App | 💻 Software | 🔒 Cybersecurity
 - 🔭 Exploring new technologies and pushing the boundaries of what's possible.
 - 🧠 Crafting elegant code while ensuring top-notch security measures.
 - 💡 Transforming ideas into functional and user-friendly applications.
 - 🌟 Constantly learning and staying updated in the ever-evolving tech landscape.
-
 
 ## 📊 Fun Stats:
 | ![DataSurgeon GitHub stats](https://github-readme-stats.vercel.app/api?username=Poordotcom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=My%20Stats&bg_color=00000000) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Poordotcom&locale=en&hide_title=true&layout=compact&card_width=400&langs_count=5&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom)  |
@@ -83,8 +82,8 @@ ___
       </a>
     </td>
   </tr>
-  </table>
-  
+</table>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Poordotcom/count.svg?"  />
 </div>
