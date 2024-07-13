@@ -58,19 +58,9 @@ ___
 
 ### 📂 My Projects & Open Source:
 
-- [![TempCLeaner](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=TempCLeaner&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/TempCLeaner)
-- [![Vali_Mail](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=Vali_Mail&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/Vali_Mail)
-- [![Tic-Tac-Toy](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=Tic-Tac-Toy&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/Tic-Tac-Toy)
-- [![Adel-MTool](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=Adel-MTool&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/Adel-MTool)
+- [![TempCLeaner](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=TempCLeaner&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/TempCLeaner)- [![Vali_Mail](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=Vali_Mail&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/Vali_Mail)
+- [![Tic-Tac-Toy](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=Tic-Tac-Toy&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/Tic-Tac-Toy)- [![Adel-MTool](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=Adel-MTool&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/Adel-MTool)
 - [![Mikrotik-Cracker](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=Mikrotik-Cracker&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/Mikrotik-Cracker)
-- [![Shell + GPT](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=DrGPT&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/DrGPT)
-- [![Web Exploit](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=DrXploit&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/DrXploit)
-- [![DrDos](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=DrDos&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/DrDos)
-- [![DrShell](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=DrShell&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/DrShell)
-- [![LargeGPT](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=LargeGPT&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/LargeGPT)
-- [![DrMac](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=DrMac&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/DrMac)
-- [![DrCrypt](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=DrCrypt&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/DrCrypt)
-- [![DrScan](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=DrScan&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/DrScan)
 
 
 <div align="center">
