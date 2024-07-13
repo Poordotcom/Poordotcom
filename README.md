@@ -83,9 +83,11 @@ ___
       </a>
     </td>
   </tr>
+  </table>
+  
 <div align="center">
   <img src="https://profile-counter.glitch.me/Poordotcom/count.svg?"  />
 </div>
-</table>
+
 ### 🐍 Watch Snake Eating My Contributions:
 ![snake svg](https://github.com/shadowYEM/shadowYEM/blob/e8128c67d6f1dc57c5e98bfcc1d894a9d10d1129/github-user-contribution.svg)
