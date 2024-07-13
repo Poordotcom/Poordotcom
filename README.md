@@ -60,7 +60,6 @@ ___
 
 - [![TempCLeaner](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=TempCLeaner&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/TempCLeaner)- [![Vali_Mail](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=Vali_Mail&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/Vali_Mail)
 - [![Tic-Tac-Toy](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=Tic-Tac-Toy&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/Tic-Tac-Toy)- [![Adel-MTool](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=Adel-MTool&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/Adel-MTool)
-- [![Mikrotik-Cracker](https://github-readme-stats.vercel.app/api/pin/?username=Poordotcom&repo=Mikrotik-Cracker&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/Poordotcom/Mikrotik-Cracker)
 
 
 <div align="center">
