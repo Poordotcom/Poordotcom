@@ -1,7 +1,4 @@
-
-<p align="center">
-  <img src="https://c.tenor.com/f-nICqWLnrQAAAAC/tenor.gif" alt="Hi" width="42" />
-</p>
+![image](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)
 <p align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 </p>
