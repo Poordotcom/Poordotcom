@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/ee1e730f-80aa-4b6a-abec-00dc85a15bf7)<p align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 </p>
 
@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I'm DataSurgeon, a passionate programmer and skilled developer with a focus on creating innovative solutions. With a strong background in cybersecurity, I'm dedicated to building robust and secure software.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding Cat" />
+<img align="right" height="150" src="https://c.tenor.com/YzniNQWV3r8AAAAC/tenor.gif" alt="Coding Cat" />
 
 ### 🌐 Web | 📱 App | 💻 Software | 🔒 Cybersecurity
 - 🔭 Exploring new technologies and pushing the boundaries of what's possible.
