@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ee1e730f-80aa-4b6a-abec-00dc85a15bf7)<p align="center">
+![image]([https://github.com/user-attachments/assets/ee1e730f-80aa-4b6a-abec-00dc85a15bf7](https://c.tenor.com/f-nICqWLnrQAAAAC/tenor.gif))<p align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 </p>
 
